@@ -1,0 +1,17 @@
+*.pb.cc
+*.pb.h
+
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+user_testapp_protobuf
+*.o
+*.dat
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
